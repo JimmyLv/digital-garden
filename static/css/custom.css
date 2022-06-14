@@ -1,0 +1,41 @@
+/* vertical style of sidebar in custom.css */
+.sidebar-item.content {
+    min-width: 33vw;
+    overflow-y: scroll;
+}
+
+.sidebar-item-list.scrollbar-spacing {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 0;
+}
+
+
+div#right-sidebar {
+    width: 50%;
+}
+
+
+/* hidden useless elements in export.css
+.cp__right-sidebar-settings .ml-4.text-sm:last-child {
+    display: none;
+}
+
+.origin-top-right .menu-link:nth-child(1),
+.origin-top-right .menu-link:nth-child(3),
+.origin-top-right .menu-link:nth-child(6),
+.origin-top-right .menu-link:nth-child(8) {
+    display: none;
+}
+
+.origin-top-right hr {
+    display: none;
+}
+
+.flashcards-nav {
+    display: none;
+}
+
+.nav-content-item.recent.is-expand {
+    display: none;
+} */
