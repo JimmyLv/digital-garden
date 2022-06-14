@@ -1,0 +1,3 @@
+- [R] -> [[Roam]]: [[Source]]、[[Search]]、[[Serendipity]]
+- [S] -> [[Synthesize]]: [[Read]]、[[Research]]
+- [S] -> [[Syndicate]]: [[Resource]]

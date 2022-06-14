@@ -1,0 +1,6 @@
+---
+title: Researching
+---
+
+- Read —> Resource
+-
