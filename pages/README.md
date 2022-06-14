@@ -3,16 +3,18 @@ public:: true
 # JimmyLv's Digital Garden 🧑‍🌾
 - ## 欢迎你，来到吕立青的数字花园！
   id:: 61a39574-2fb3-4210-9cb4-aa9d0a58f5f0
-	- > Full Cycle Developer, Agile Coach, eXtreme Programming Trainer, Photographer, #roamcult #RoamCN community, and more 👉 [https://jimmylv.info](https://jimmylv.info)
+	- > (learn & build in Web 3.0) Engineer [@Parabol](https://www.parabol.co) (remotely), Writer, Trainer, Photographer, #roamcult #RoamCN, and more 👉 [https://jimmylv.info](https://jimmylv.info)
 	- > 想做产品，却误入程序世界爱上写作的摄影师。📸
 ## About Me 🐣
+	- 📒 Notes: https://notes.jimmylv.info
 	- 📝 Blog: https://blog.jimmylv.info
-	  id:: 61a39533-a360-4c0d-8ce3-a6c8af4d2f4b
 	- 🐦 Twitter: https://twitter.com/Jimmy_JingLv
 	- 👨‍💻 GitHub: https://github.com/JimmyLv
 	- 📧 Newsletter: https://jimmylv.substack.com
+	- 📲 Telegram: https://daily.jimmylv.info
 	- 🎨 SSPAI: https://sspai.com/u/jimmylv
 	- 🎥 Bilibili: https://space.bilibili.com/37648256
+	- 🎥 YouTube: [https://www.youtube.com/c/JimmyLv吕立青](https://www.youtube.com/c/JimmyLv吕立青)
 - ## Navigation 🧭
   id:: 61a39533-11c4-4f6f-93a1-118d84090ee1
 	- [[我的 Roam Research]]
